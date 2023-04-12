@@ -1,4 +1,5 @@
-# Lenovo Tinkercad t15 gen1 MacOs EFI
+# Lenovo Laptop ThinkPad T15g Gen 1
+
 
 https://www.reddit.com/r/hackintosh/comments/soq5ke/lenovo_thinkpad_t14s_monterey_122_success/
 https://drive.google.com/file/d/1-YRAljH1vobXnNTKU9rdIXztQuy2z-kf/view?usp=sharing
